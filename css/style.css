@@ -588,7 +588,13 @@ a {
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
-
+    .site-footer .social-item > i {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%); }
 .block-47 .block-47-image {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 50px;
