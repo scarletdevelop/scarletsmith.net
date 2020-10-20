@@ -1,0 +1,8 @@
+[
+    {
+        "origin": ["https://scarletsmith.net"],
+        "responseHeader":["*"],
+        "method":["GET"],
+        "maxAgeSeconds":3600
+    }
+]
